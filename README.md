@@ -34,5 +34,5 @@
 
 ## 📫 Connect with me
 
-* LinkedIn: github.com/Rathi2005
+* LinkedIn: [github.com/Rathi2005](https://github.com/Rathi2005)
 * Email: h0rshitr0thi2005@gmail.com
