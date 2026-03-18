@@ -1,3 +1,4 @@
+<img src="github-header-banner.png" />
 # Hi 👋, I'm Harshit Rathi
 
 🚀 Full Stack Developer | React | Node.js | MySQL
