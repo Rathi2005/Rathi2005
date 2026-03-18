@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Harshit Rathi
 
-<!--
-**Rathi2005/Rathi2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | React | Node.js | MySQL
+💡 Building real-world products like ServerLink (Cloud Management Platform)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+
+### 🌐 ServerLink
+
+* Cloud server management platform
+* VM provisioning, billing, dashboard
+* Tech: React, SpringBoot, MySQL
+
+---
+
+## 🛠 Tech Stack
+
+* Languages: Python, Java, JavaScript, SQL
+* Frontend: React.js, HTML, CSS
+* Backend: Node.js, Express.js, Flask
+* Databases: MySQL, MongoDB
+* Tools: Git, Postman, REST APIs
+
+---
+
+## 📈 Currently Learning
+
+* Data Structures & Algorithms
+* System Design Basics
+
+---
+
+## 📫 Connect with me
+
+* LinkedIn: github.com/Rathi2005
+* Email: h0rshitr0thi2005@gmail.com
