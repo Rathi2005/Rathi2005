@@ -35,5 +35,8 @@
 
 ## 📫 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([Rathi2005](https://github.com/Rathi2005))
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)]([Harshit_Rathi](https://leetcode.com/u/Harshit_Rathi/))
+
 * LinkedIn: [github.com/Rathi2005](https://github.com/Rathi2005)
 * Email: h0rshitr0thi2005@gmail.com
