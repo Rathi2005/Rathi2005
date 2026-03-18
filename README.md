@@ -37,6 +37,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([Rathi2005](https://github.com/Rathi2005))
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)]([Harshit_Rathi](https://leetcode.com/u/Harshit_Rathi/))
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](h0rshitr0thi2005@gmail.com)
 
-* LinkedIn: [github.com/Rathi2005](https://github.com/Rathi2005)
-* Email: h0rshitr0thi2005@gmail.com
