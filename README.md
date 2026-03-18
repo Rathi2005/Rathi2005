@@ -23,7 +23,7 @@
 
 <p align="center">
   <!-- For a complete list of icons, check out: https://github.com/tandpfun/skill-icons -->
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,flask,spring,mysql,mongodb,html,css,git,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,flask,mysql,mongodb,html,css,git,postman" />
 </p>
 
 ---
