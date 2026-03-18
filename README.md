@@ -52,12 +52,12 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshitrathi2005&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Harshit's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshitrathi2005&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Harshit's Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rathi2005&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Harshit's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rathi2005&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Harshit's Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitrathi2005&theme=tokyonight&hide_border=true" alt="Harshit's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rathi2005&theme=tokyonight&hide_border=true" alt="Harshit's GitHub Streak" />
 </p>
 
 ---
